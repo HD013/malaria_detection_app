@@ -32,6 +32,6 @@ This project is licensed under the **MIT License**.
 <br>
 
 ### References 
-#### This app is by a project from Jose Portilla's Complete Tensorflow 2 and Keras Deep Learning Course
+#### This app is inspired by a project from Jose Portilla's Complete Tensorflow 2 and Keras Deep Learning Course
 #### Which is actually a pretty great course; you can check it out here:
 ##### [Tensorflow2 Keras Course](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/)
